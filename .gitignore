@@ -6,7 +6,8 @@ report.md
 eval_bundle/
 
 # Secrets
-.env
+*.env
+*.bat
 
 # Local setup
 CLAUDE.md
